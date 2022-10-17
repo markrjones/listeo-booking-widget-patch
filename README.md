@@ -1,4 +1,4 @@
-# Important note. 
+# Important note
 
 As of version 1.8.44 this issue was resolved by the Listeo developers. I will leave the code here in case anybody for some reason must remain on an earlier version of the theme, but the recommendation is the update the theme and you should then NOT install this plugin.
 
